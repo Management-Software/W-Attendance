@@ -1,6 +1,8 @@
-# W-Attendance
+**Log on to codeastro.com for more projects!***
 
 **Database Name: attendance_management**
+
+**Developed by Ronald Ngoda**
 
 **Recommended PHP Version 5.6.3 and 7.4.12**
 
