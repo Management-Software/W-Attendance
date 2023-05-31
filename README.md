@@ -1,17 +1,18 @@
 # W-Attendance
 
-**Database Name: attendance_management**
+**Database Name: attendancemsystem**
 
-**Recommended PHP Version 5.6.3 and 7.4.12**
-
+**Recommended PHP Version 5.6 and Newer**
 
 **Admin Login Details**
 
-Username: admin
-Password: admin
+Email   : admin@mail.com
+Password: Password@123
 
 
-**Members Login Details**
+**Teacher Login Details**
 
-Username: demo
-Password: password@123
+Email   : jwood@mail.com
+Password: pass123
+
+**Default password for teacher's account: pass123**
